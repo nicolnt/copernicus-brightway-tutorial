@@ -1,2 +1,4 @@
 .env
 .DS_Store
+ecoinvent-logins.json
+*:Zone.Identifier
