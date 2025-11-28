@@ -1,4 +1,5 @@
 .env
 .DS_Store
+.vscode
 ecoinvent-logins.json
 *:Zone.Identifier
