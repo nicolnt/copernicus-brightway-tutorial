@@ -1,2 +1,2 @@
 > [!NOTE]
-> All the details are on the Jupyter Notebook file: [Getting Started with Brightway.ipynb](./Getting Started with Brightway.ipynb)
+> All the details are on the Jupyter Notebook file: [Getting Started with Brightway.ipynb](https://github.com/nicolnt/copernicus-brightway-tutorial/blob/main/Getting%20Started%20with%20Brightway.ipynb)
